@@ -34,3 +34,6 @@ And here are the tools that i use to design, prototype, edit, and others for my 
 - I am more of a creative person, i prefer creative work over technical stuffs. But i can get the job done
 - I am a gacha ~~addict~~ enthusiast!, just message me your UID and more often than not i'll know. I'll add you in 5 business days (maybe?)
 - I like cats
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/071c6011-d495-4993-aa5c-a91669c8e1af" width="300">
+</p>
