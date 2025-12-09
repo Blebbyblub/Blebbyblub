@@ -4,6 +4,8 @@ I'm Raenault, a developer passionate about learning and building meaningful proj
 
 I enjoy exploring new technologies, solving problems, and continuously improving my coding skills.
 
+---
+
 ## My Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
