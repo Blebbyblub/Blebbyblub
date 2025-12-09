@@ -6,7 +6,7 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 ---
 
-## My Tech Stack & Tools
+## Tech Stack & Tools
 Here are the tools that i work with, i am eager to learn more.
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,5 +17,13 @@ Here are the tools that i work with, i am eager to learn more.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,azure,unity" />
+  </a>
+</p>
+
+## Design & Editing Tools
+And here are the tools that i use to design, prototype, edit, and others for my projects
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,blender" />
   </a>
 </p>
