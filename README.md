@@ -43,13 +43,10 @@ And here are the tools that i use to design, prototype, edit, and others for my 
 ## Contacts
 If you have anything you want to discuss with me or just want to chat, don't hesitate to reach out!
 <p align="center">
-  <a href="https://github.com/Blebbyblub">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="80"/>
-  </a>
   <a href="https://linkedin.com/in/renalt-salle">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="80"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50"/>
   </a>
   <a href="https://www.instagram.com/blebbyblub/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="80"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="50"/>
   </a>
 </p>
