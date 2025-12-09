@@ -7,6 +7,6 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 ## My Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,tailwind,py,c,cs,cpp,java,mysql,mongodb,php,pytorch,sklearn,tensorflow,azure,unity" />
   </a>
 </p>
