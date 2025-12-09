@@ -1,7 +1,5 @@
 <h1 align="center">Helou 👋</h1>
 
----
-
 I'm Raenault, a developer passionate about learning and building meaningful projects. 
 
 I enjoy exploring new technologies, solving problems, and continuously improving my coding skills.
