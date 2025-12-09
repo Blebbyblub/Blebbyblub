@@ -30,10 +30,24 @@ And here are the tools that i use to design, prototype, edit, and others for my 
 
 ---
 
-## Fun Facts:
+## Fun Facts
 - I am more of a creative person, i prefer creative work over technical stuffs. But i can get the job done
 - I am a gacha ~~addict~~ enthusiast!, just message me your UID and more often than not i'll know. I'll add you in 5 business days (maybe?)
 - I like cats
 <p align="center">
   <img src="https://github.com/user-attachments/assets/071c6011-d495-4993-aa5c-a91669c8e1af" width="300">
 </p>
+
+---
+
+## Contacts
+If you have anything you want to discuss with me or just want to chat, don't hesitate to reach out!
+<p align="center">
+  <a href="https://github.com/Blebbyblub">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/renalt-salle">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
+  </a>
+</p>
+
