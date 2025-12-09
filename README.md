@@ -1,4 +1,4 @@
-<p align="center"># Helou 👋</p>
+<h align="center"># Helou 👋</h>
 
 I'm Raenault, a developer passionate about learning and building meaningful projects. 
 
