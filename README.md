@@ -27,3 +27,8 @@ And here are the tools that i use to design, prototype, edit, and others for my 
     <img src="https://skillicons.dev/icons?i=figma,ps,blender" />
   </a>
 </p>
+
+---
+
+## Fun Facts:
+- testing
