@@ -1,4 +1,6 @@
-<h1 align="center"># Helou 👋</h1>
+<h1 align="center">Helou 👋</h1>
+
+---
 
 I'm Raenault, a developer passionate about learning and building meaningful projects. 
 
