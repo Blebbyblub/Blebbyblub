@@ -1,8 +1,8 @@
 <h1 align="center">Helou, I'm Raenault 👋</h1>
 
-<p alignt="center">I'm Raenault, a developer passionate about learning and building meaningful projects.</p>
+<p align="center">I'm Raenault, a developer passionate about learning and building meaningful projects.</p>
 
-<p alignt="center">I enjoy exploring new technologies, solving problems, and continuously improving my coding skills.</p>
+<p align="center">I enjoy exploring new technologies, solving problems, and continuously improving my coding skills.</p>
 
 ---
 
