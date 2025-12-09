@@ -32,5 +32,5 @@ And here are the tools that i use to design, prototype, edit, and others for my 
 
 ## Fun Facts:
 - I am more of a creative person, i prefer creative work over technical stuffs. But i can get the job done
-- I am a gacha ~~addict~~ enthusiast!, just message me your UID and more and i'll add you in 5 business days (maybe?)
+- I am a gacha ~~addict~~ enthusiast!, just message me your UID and more often than not i'll know. I'll add you in 5 business days (maybe?)
 - I like cats
