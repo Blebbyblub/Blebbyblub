@@ -49,9 +49,6 @@ If you have anything you want to discuss with me or just want to chat, don't hes
   <a href="https://linkedin.com/in/renalt-salle">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
   </a>
-  <a href="https://huggingface.co/Blebbyblub">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Huggingface.svg" width="40"/>
-  </a>
   <a href="https://www.instagram.com/blebbyblub/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="40"/>
   </a>
